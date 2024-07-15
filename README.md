@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/41c9eb5d-541e-4f62-b21f-8dab2f9ec74a.svg)](https://wakatime.com/@41c9eb5d-541e-4f62-b21f-8dab2f9ec74a)
 Welcome to my GitHub profile! I'm Peter Esenwa, a passionate Full-Stack Engineer with a knack for crafting seamless and efficient web applications. With a robust background in frontend and mobile development, I thrive on solving complex problems and delivering high-quality software solutions. 
 
 ---
